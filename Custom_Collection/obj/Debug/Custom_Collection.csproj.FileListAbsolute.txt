@@ -1,0 +1,7 @@
+C:\Users\mayank_bharadwaj\source\repos\Custom_Collection\Custom_Collection\bin\Debug\Custom_Collection.exe.config
+C:\Users\mayank_bharadwaj\source\repos\Custom_Collection\Custom_Collection\bin\Debug\Custom_Collection.exe
+C:\Users\mayank_bharadwaj\source\repos\Custom_Collection\Custom_Collection\bin\Debug\Custom_Collection.pdb
+C:\Users\mayank_bharadwaj\source\repos\Custom_Collection\Custom_Collection\obj\Debug\Custom_Collection.csproj.AssemblyReference.cache
+C:\Users\mayank_bharadwaj\source\repos\Custom_Collection\Custom_Collection\obj\Debug\Custom_Collection.csproj.CoreCompileInputs.cache
+C:\Users\mayank_bharadwaj\source\repos\Custom_Collection\Custom_Collection\obj\Debug\Custom_Collection.exe
+C:\Users\mayank_bharadwaj\source\repos\Custom_Collection\Custom_Collection\obj\Debug\Custom_Collection.pdb
